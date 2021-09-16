@@ -1,11 +1,14 @@
-import React from "react";
+import React from 'react';
+import Hero from '../components/Header/Hero';
+import InfoScheme from '../components/InfoScheme';
 
 const IndexScreen = () => {
-  return (
-    <>
-      <h1>Info</h1>
-    </>
-  );
+	return (
+		<>
+			<Hero id='flights' title='Let the journey begin' />
+			<InfoScheme />
+		</>
+	);
 };
 
 export default IndexScreen;
