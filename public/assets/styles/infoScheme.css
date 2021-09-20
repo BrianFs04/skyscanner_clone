@@ -134,14 +134,17 @@ ol {
 .social-container .col {
 	border: 1px solid rgba(255, 255, 255, 0.1);
 }
-a {
+.contact-list a,
+.nav-list a {
 	color: #fff !important;
 	text-decoration: none !important;
 }
 
-a:hover {
+.contact-list a:hover,
+.nav-list a:hover {
 	color: #4d6de6 !important;
 }
+
 .nav-list li a:before {
 	content: '\f14f';
 	font: 400 21px/1 'Material Design Icons';
