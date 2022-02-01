@@ -20,17 +20,16 @@ We also create a component for the Information Page. In order to make understabl
 Here is compared between original and the current project.
 
 Covid Map Banner
+![Original Map](https://github.com/BrianFs04/skyscanner_clone/blob/master/src/originalMapBanner.png)
+With the clone
+![Copy Image](https://i.ibb.co/NFt7FPK/covid-Banner-Our.png)
 
-![image](https://i.ibb.co/GWtWNZg/Orginal-Covid-Banner.png)
-
-![image](https://i.ibb.co/NFt7FPK/covid-Banner-Our.png)
 
 Information Banner
+![Orginal banner](https://github.com/BrianFs04/skyscanner_clone/blob/master/src/originalBanner.png)
+with the clone
+![no original banner](https://github.com/BrianFs04/skyscanner_clone/blob/master/src/copybanner.png)
 
-
-![image](https://i.ibb.co/tJybzN7/Origina-Info-Banner.png)
-
-![image](https://i.ibb.co/PgH3h11/info-Banner.png)
 
 And so on..
 
@@ -54,7 +53,7 @@ So the functionality, in general terms. can be described by the next architectur
 
 This is used a lot in the flights component
 
-![image](https://i.ibb.co/y65NLcN/Flight-Component.png)
+![image](https://github.com/BrianFs04/skyscanner_clone/blob/master/src/flightcomponent.png)
 
 Where yo can write the origin and destination places
 
